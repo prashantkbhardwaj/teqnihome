@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TeqniHome</string>
+    <string name="branch_prompt">Choose a branch</string>
+
+    <string-array name="branch_arrays">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>Mech</item>
+        <item>Civil</item>
+    </string-array>
+
+    <string name="year_prompt">Choose an year</string>
+
+    <string-array name="year_arrays">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+
+    <string name="session_prompt">Choose a session</string>
+
+    <string-array name="session_arrays">
+        <item>session1</item>
+        <item>session2</item>
+        <item>session3</item>
+        <item>session4</item>
+    </string-array>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image">ImageActivity</string>
+</resources>
